@@ -4,3 +4,7 @@
 
                     <input type="submit" value="Logout">
                 </form>
+
+
+
+            <h1>this is admin index page</h1>
