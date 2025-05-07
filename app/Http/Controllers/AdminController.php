@@ -23,6 +23,7 @@ class AdminController extends Controller
         }
 
         $notice->save();
-        return redirect()->back()->with('success', 'Notice added successfully!');
+        flash()->success('Product created successfully!');
+        return redirect()->back();
     }
 }
