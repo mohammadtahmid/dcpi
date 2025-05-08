@@ -7,7 +7,7 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/s1.jpg" class="d-block w-100" alt="img/s1.jpg">
+                    <img src="img/1.jpg" class="d-block w-100" alt="img/s1.jpg">
                     <div class="carousel-caption mb-5 d-none d-md-block">
                         <a href="#" role="button" class="btn btn-success">Online Admission</a>
                         <a href="#" class="btn btn-info">Graduation Ceremony</a>
@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <div class="carousel-item active">
-                    <img src="img/s1.jpg" class="d-block w-100" alt="img/s1.jpg">
+                    <img src="img/4.jpg" class="d-block w-100" alt="img/s1.jpg">
                     <div class="carousel-caption mb-5 d-none d-md-block">
                         <a href="#" role="button" class="btn btn-success">Online Admission</a>
                         <a href="#" class="btn btn-info">Graduation Ceremony</a>
@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="carousel-item active">
-                    <img src="img/s1.jpg" class="d-block w-100" alt="img/s1.jpg">
+                    <img src="img/3.jpg" class="d-block w-100" alt="img/s1.jpg">
                     <div class="carousel-caption mb-5 d-none d-md-block">
                         <a href="#" role="button" class="btn btn-success">Online Admission</a>
                         <a href="#" class="btn btn-info">Graduation Ceremony</a>

@@ -24,7 +24,7 @@ require __DIR__.'/auth.php';
 route::get('admin/dashboard',[HomeController::class,'index'])->middleware(['auth','admin']);
 route::get('view_notice',[AdminController::class,'view_notice'])->middleware(['auth','admin']);
 route::post('add_notice',[AdminController::class,'add_notice'])->middleware(['auth','admin']);
-
-
-
+route::get('delete_notice/{id}',[AdminController::class,'delete_notice'])->middleware(['auth','admin']);
+route::get('edit_notice/{id}',[AdminController::class,'edit_notice'])->middleware(['auth','admin']);
+route::post('update_category/{id}',[AdminController::class,'update_category'])->middleware(['auth','admin']);
 
